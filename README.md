@@ -1,7 +1,10 @@
-# MADPractical1_20012011050!
-
+# MADPractical1_20012011050
+1.Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 ![Screenshot (1)](https://user-images.githubusercontent.com/110708437/183233426-4b2bf2a4-dc9c-4dc1-aa49-1951be81ab8d.png)
+2.Type conversion:
+Integer to Double, String to Integer, String to Double.
 ![Screenshot 2022-08-25 083425](https://user-images.githubusercontent.com/110708437/186566089-64917832-832f-4518-bb48-f9e3ce67d9b6.png)
+Scan student’s information and display all the data.
 ![Screenshot 2022-08-25 083525](https://user-images.githubusercontent.com/110708437/186566118-4dec78c9-e2cd-4045-9a34-132336cb6c1b.png)
 ![Screenshot 2022-08-25 083610](https://user-images.githubusercontent.com/110708437/186566122-ccbdf8b0-3f09-4555-b767-ac700fa50628.png)
 ![Screenshot 2022-08-25 083643](https://user-images.githubusercontent.com/110708437/186566125-1562d9b1-a050-484b-b180-098038128918.png)
